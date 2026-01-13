@@ -6,7 +6,7 @@ Dieses Projekt umfasst den Entwurf und die Simulation eines **4-Bit asynchronen 
 ## Technische Spezifikationen
 * **Zählertyp:** Asynchroner Binärzähler.
 * **Zählbereich:** 0 bis 15 (Modulo-16).
-* **Komponenten:** 4 kaskadierte Flipflops (J-K oder T-Typ).
+* **Komponenten:** 4 kaskadierte JK Flipflops 
 * **Eingang:** Taktsignal (External Clock).
 * **Softwareumgebung:** MATLAB/Simulink.
 
@@ -20,4 +20,5 @@ Die beigefügte `.slx` Datei enthält das vollständige Schaltdiagramm in **Simu
 3. **Display:** Zur Anzeige des aktuellen Dezimal- oder Binärwerts.
 
 ---
-*Akademisches Projekt - Rechnerorganisation.*
+
+<img width="1093" height="608" alt="image" src="https://github.com/user-attachments/assets/85b9902a-fd35-4a04-8b3b-49122befa542" />
